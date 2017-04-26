@@ -9,6 +9,10 @@ class App extends Component {
     super(props);
   }
 
+  componentDidMount() {
+    // this.props.fetchData()
+  }
+
   render() {
     return (
       <Display

@@ -14,6 +14,7 @@ function DrinksGrid(props) {
       <DrinkComponent
         drink={drink}
         key={drink.idDrink}
+        index={i}
       />
     )
   })
