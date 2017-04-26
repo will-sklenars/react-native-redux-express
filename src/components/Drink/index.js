@@ -61,7 +61,6 @@ class DrinkComponent extends Component {
       </View>
     )
   }
-                                                                
 }
 
 export default DrinkComponent
