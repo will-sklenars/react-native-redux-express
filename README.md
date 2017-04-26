@@ -12,8 +12,13 @@ cd react-native-redux-express
 or
 `yarn`
 
-```
-npm run debug:ios
-cd api
-node index.js
-```
+`npm run debug:ios`
+
+`cd api`
+
+`npm install`
+or
+`yarn`
+
+`node index.js`
+
